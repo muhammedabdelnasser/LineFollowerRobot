@@ -1,0 +1,21 @@
+main
+	autoo
+		Motor_off
+		up
+		Hold
+		LEFT
+		Forward
+		RIGHT
+		Release
+		Backward
+		OFFF
+	manual
+		LEFT
+		RIGHT
+		Forward
+		Backward
+		up
+		down
+		Hold
+		Release
+		OFFF
